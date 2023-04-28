@@ -1,10 +1,4 @@
-﻿/*
- *  Name of project: InClass5RM
- * Purpose: To create username and password
- *
- * Revision Histrory:
- *      Rutvi Mistry, 2023.04.01: Created
- */
+
 using System;
 using System.Collections.Generic;
 using System.Linq;
